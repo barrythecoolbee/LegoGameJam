@@ -24,6 +24,8 @@
     >>
     <a href="https://github.com/github_username/repo_name/youtubevideo">View Demo</a>
     .
+    <a href="https://lnkd.in/d2hSrYs3">Article</a>
+    .
     <a href="https://barrythecoolbee.itch.io/lego-game-jam">itch.io</a>
     <<
   </p>
